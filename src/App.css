@@ -20,3 +20,8 @@
 .App-link {
   color: #09d3ac;
 }
+
+.article-container {
+  width: 60%;
+  height: 30%;
+}
