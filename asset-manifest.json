@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/birthday-congraz/static/css/main.341e33d1.chunk.css",
+    "main.js": "/birthday-congraz/static/js/main.4d4ae505.chunk.js",
+    "main.js.map": "/birthday-congraz/static/js/main.4d4ae505.chunk.js.map",
+    "runtime-main.js": "/birthday-congraz/static/js/runtime-main.fd3c87bf.js",
+    "runtime-main.js.map": "/birthday-congraz/static/js/runtime-main.fd3c87bf.js.map",
+    "static/js/2.b4d03f33.chunk.js": "/birthday-congraz/static/js/2.b4d03f33.chunk.js",
+    "static/js/2.b4d03f33.chunk.js.map": "/birthday-congraz/static/js/2.b4d03f33.chunk.js.map",
+    "index.html": "/birthday-congraz/index.html",
+    "precache-manifest.226173ab789f6d66ee623a83b366f8b8.js": "/birthday-congraz/precache-manifest.226173ab789f6d66ee623a83b366f8b8.js",
+    "service-worker.js": "/birthday-congraz/service-worker.js",
+    "static/css/main.341e33d1.chunk.css.map": "/birthday-congraz/static/css/main.341e33d1.chunk.css.map",
+    "static/media/logo.svg": "/birthday-congraz/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd3c87bf.js",
+    "static/js/2.b4d03f33.chunk.js",
+    "static/css/main.341e33d1.chunk.css",
+    "static/js/main.4d4ae505.chunk.js"
+  ]
+}
