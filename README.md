@@ -2,7 +2,7 @@
 
 ![Preview](giphy.gif)
 
-simple react SPA for react beginner
+Simple react SPA using React-Confetti & Disqus-React
 
 ### Prerequisites
 
