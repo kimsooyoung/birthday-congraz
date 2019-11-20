@@ -1,5 +1,7 @@
 # Birthday Congraz!!
 
+![Preview](giphy.gif)
+
 simple react SPA for react beginner
 
 ### Prerequisites
